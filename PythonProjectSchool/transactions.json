@@ -1,0 +1,44 @@
+{
+    "12345": {
+        "transactions": [
+            {
+                "type": "Income",
+                "amount": 1234.0,
+                "date": "2025-12-16 20:24:10",
+                "note": "",
+                "category": "\ud83d\udcb5 Salary",
+                "account": "\ud83c\udfe6 Account"
+            }
+        ],
+        "goals": [],
+        "budget": 0.0
+    },
+    "waikin": {
+        "transactions": [
+            {
+                "type": "Income",
+                "amount": 1234.0,
+                "date": "2025-12-18 20:25:03",
+                "note": "",
+                "category": "\ud83d\udcb5 Salary",
+                "account": "\ud83c\udfe6 Account"
+            }
+        ],
+        "goals": [],
+        "budget": 0
+    },
+    "121212": {
+        "transactions": [
+            {
+                "type": "Income",
+                "amount": 1234.0,
+                "date": "2025-12-17 15:46:49",
+                "note": "",
+                "category": "\ud83d\udcb5 Salary",
+                "account": "\ud83c\udfe6 Account"
+            }
+        ],
+        "goals": [],
+        "budget": 0
+    }
+}
